@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NRuslanovna. My name is Nadiia
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on with other newcomers lerners 
 
 <!---
